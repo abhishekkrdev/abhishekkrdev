@@ -12,7 +12,7 @@ enthusiast
 - 🔭 I’m currently working on microservices with typescript
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, sports, travel
--  ⚡ Languages: JavaScript, Python
+-  ⚡ Languages: JavaScript, Java
 
 
 
